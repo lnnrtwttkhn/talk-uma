@@ -8,7 +8,7 @@ subtitle: |
   
   {{< var license-badge >}}
   {{< var doi-badge >}}
-date: today
+date: 2023/11/21
 ---
 
 ## About
@@ -24,7 +24,7 @@ date: today
 {{< fa home-user >}} [{{< var homepage >}}]({{< var homepage >}})<br>
 {{< fa brands mastodon >}} [Mastodon]({{< var mastodon >}})
 {{< fa brands github >}} [GitHub]({{< var github >}})
-{{< fa brands linkedin >}} [LinkedIn]({{< var linked >}})
+{{< fa brands linkedin >}} [LinkedIn]({{< var linkedin >}})
 :::
 
 ::: {.column width="65%"}
